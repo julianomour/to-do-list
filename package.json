@@ -17,7 +17,8 @@
     "nodemailer-express-handlebars": "^3.0.0",
     "nodemon-browsersync-webpack-plugin": "~1.0.1",
     "path": "^0.12.7",
-    "request": "~2.85.0"
+    "request": "~2.85.0",
+    "deep-extend": ">=0.5.1"
   },
   "repository": {
     "type": "git",
@@ -30,6 +31,6 @@
   },
   "homepage": "https://github.com/julianomour/to-do-list#readme",
   "devDependencies": {
-    "nodemon": "~1.17.2"
+    "nodemon": "^1.18.9"
   }
 }
