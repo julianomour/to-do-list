@@ -19,9 +19,11 @@
     "path": "^0.12.7",
     "request": "~2.85.0"
   },
-"devDependencies": {
-
-},
+  "devDependencies": {
+    "nodemon": "^1.18.9",
+    "cryptiles": ">=4.1.2",
+    "deep-extend": ">=0.5.1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/julianomour/to-do-list.git"
@@ -31,10 +33,5 @@
   "bugs": {
     "url": "https://github.com/julianomour/to-do-list/issues"
   },
-  "homepage": "https://github.com/julianomour/to-do-list#readme",
-  "devDependencies": {
-    "nodemon": "^1.18.9",
-  "cryptiles": ">=4.1.2",
-    "deep-extend": ">=0.5.1"
-  }
+  "homepage": "https://github.com/julianomour/to-do-list#readme"
 }
